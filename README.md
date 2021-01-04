@@ -24,6 +24,6 @@
 ![ วิธีเซฟไฟล์ google colab(ไฟล์.png)]
 
 
-![gg colab](gg_colab.png)
+![Photo1](Photo1.png)
 
-![gg colab](gg_colab1.png)
+![Photo2](Photo2.png)
